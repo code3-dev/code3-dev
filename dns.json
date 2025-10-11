@@ -46,5 +46,245 @@
     "addresses": ["185.228.168.9", "185.228.169.9"],
     "dohUrl": "https://doh.cleanbrowsing.org/doh/family-filter/",
     "website": "https://cleanbrowsing.org/"
+  },
+  {
+    "id": 7,
+    "name": "Comodo Secure DNS",
+    "description": "DNS service with malware protection",
+    "addresses": ["8.26.56.26", "8.20.247.20"],
+    "dohUrl": "https://dns.comodo.com/dns-query",
+    "website": "https://www.comodo.com/secure-dns/"
+  },
+  {
+    "id": 8,
+    "name": "Level 3 Communications",
+    "description": "Enterprise-grade DNS service",
+    "addresses": ["4.2.2.1", "4.2.2.2"],
+    "dohUrl": null,
+    "website": "https://www.level3.com"
+  },
+  {
+    "id": 9,
+    "name": "Verisign Public DNS",
+    "description": "Stable and secure DNS service",
+    "addresses": ["64.6.64.6", "64.6.65.6"],
+    "dohUrl": null,
+    "website": "https://www.verisign.com/en_US/security-services/public-dns/index.xhtml"
+  },
+  {
+    "id": 10,
+    "name": "DNS.WATCH",
+    "description": "No censorship, no filtering, no logging",
+    "addresses": ["84.200.69.80", "84.200.70.40"],
+    "dohUrl": "https://dns.watch/dns-query",
+    "website": "https://dns.watch"
+  },
+  {
+    "id": 11,
+    "name": "Yandex DNS",
+    "description": "Russian DNS service with security features",
+    "addresses": ["77.88.8.8", "77.88.8.1"],
+    "dohUrl": "https://dns.yandex.ru/dns-query",
+    "website": "https://dns.yandex.com"
+  },
+  {
+    "id": 12,
+    "name": "Neustar Recursive DNS",
+    "description": "Enterprise-grade DNS with security",
+    "addresses": ["156.154.70.1", "156.154.71.1"],
+    "dohUrl": "https://dns.neustar/dns-query",
+    "website": "https://www.security.neustar/dns-services/recursive-dns"
+  },
+  {
+    "id": 13,
+    "name": "SafeDNS",
+    "description": "Family protection and content filtering",
+    "addresses": ["195.46.39.39", "195.46.39.40"],
+    "dohUrl": "https://doh.saferdns.com/dns-query",
+    "website": "https://www.safedns.com"
+  },
+  {
+    "id": 14,
+    "name": "Dyn",
+    "description": "Managed DNS and email delivery services",
+    "addresses": ["216.146.35.35", "216.146.36.36"],
+    "dohUrl": null,
+    "website": "https://dyn.com"
+  },
+  {
+    "id": 15,
+    "name": "FreeDNS",
+    "description": "Community-driven DNS service",
+    "addresses": ["45.33.97.5", "45.33.97.6"],
+    "dohUrl": null,
+    "website": "https://freedns.afraid.org"
+  },
+  {
+    "id": 16,
+    "name": "Alternate DNS",
+    "description": "Alternative DNS with ad blocking",
+    "addresses": ["198.101.242.72", "23.253.163.53"],
+    "dohUrl": null,
+    "website": "https://alternate-dns.com"
+  },
+  {
+    "id": 17,
+    "name": "UncensoredDNS",
+    "description": "No filtering, no censorship DNS",
+    "addresses": ["91.239.100.100", "89.233.43.71"],
+    "dohUrl": "https://unicast.uncensoreddns.org/dns-query",
+    "website": "https://blog.uncensoreddns.org"
+  },
+  {
+    "id": 18,
+    "name": "Freenom World",
+    "description": "Free DNS service from Freenom",
+    "addresses": ["80.80.80.80", "80.80.81.81"],
+    "dohUrl": null,
+    "website": "https://www.freenom.world"
+  },
+  {
+    "id": 19,
+    "name": "OpenNIC",
+    "description": "Open, democratic DNS service",
+    "addresses": ["216.87.84.211", "69.164.196.21"],
+    "dohUrl": null,
+    "website": "https://www.opennic.org"
+  },
+  {
+    "id": 20,
+    "name": "Fourth Estate",
+    "description": "Independent DNS service",
+    "addresses": ["45.77.165.194", "104.238.135.143"],
+    "dohUrl": null,
+    "website": "https://4estate.me"
+  },
+  {
+    "id": 21,
+    "name": "Hurricane Electric",
+    "description": "IPv6-focused DNS service",
+    "addresses": ["74.82.42.42", "66.220.18.42"],
+    "dohUrl": null,
+    "website": "https://dns.he.net"
+  },
+  {
+    "id": 22,
+    "name": "puntCAT",
+    "description": "Catalan DNS service",
+    "addresses": ["109.69.8.51", "164.138.24.75"],
+    "dohUrl": null,
+    "website": "https://www.puntcat.cat"
+  },
+  {
+    "id": 23,
+    "name": "AS20860 DNS",
+    "description": "UK-based DNS service",
+    "addresses": ["87.117.202.100", "87.117.202.101"],
+    "dohUrl": null,
+    "website": "https://www.dns0.eu"
+  },
+  {
+    "id": 24,
+    "name": "Orange DNS",
+    "description": "French telecom DNS service",
+    "addresses": ["80.10.246.2", "80.10.246.129"],
+    "dohUrl": null,
+    "website": "https://www.orange.fr"
+  },
+  {
+    "id": 25,
+    "name": "Tenta DNS",
+    "description": "Privacy-focused DNS with Tor support",
+    "addresses": ["99.192.182.100", "99.192.182.200"],
+    "dohUrl": null,
+    "website": "https://tenta.com/dns"
+  },
+  {
+    "id": 26,
+    "name": "3DNS",
+    "description": "Security-focused DNS service",
+    "addresses": ["77.77.77.77", "77.77.77.78"],
+    "dohUrl": null,
+    "website": "https://3dns.com"
+  },
+  {
+    "id": 27,
+    "name": "CenturyLink DNS",
+    "description": "DNS service from CenturyLink",
+    "addresses": ["4.2.2.1", "4.2.2.2"],
+    "dohUrl": null,
+    "website": "https://www.centurylink.com"
+  },
+  {
+    "id": 28,
+    "name": "DNS Advantage",
+    "description": "Charter Spectrum DNS service",
+    "addresses": ["209.18.47.61", "209.18.47.62"],
+    "dohUrl": null,
+    "website": "https://dnsadvantage.com"
+  },
+  {
+    "id": 29,
+    "name": "Norton ConnectSafe",
+    "description": "Security-focused DNS from Norton",
+    "addresses": ["199.85.126.10", "199.85.127.10"],
+    "dohUrl": null,
+    "website": "https://connectsafe.norton.com"
+  },
+  {
+    "id": 30,
+    "name": "GreenTeamDNS",
+    "description": "Eco-friendly DNS service",
+    "addresses": ["8.26.56.26", "8.20.247.20"],
+    "dohUrl": null,
+    "website": "https://greenteamdns.com"
+  },
+  {
+    "id": 31,
+    "name": "SmartViper",
+    "description": "Security-focused DNS service",
+    "addresses": ["208.76.50.50", "208.76.51.51"],
+    "dohUrl": null,
+    "website": "https://www.smartviper.com"
+  },
+  {
+    "id": 32,
+    "name": "Dyn Standard DNS",
+    "description": "Standard DNS service from Dyn",
+    "addresses": ["216.146.35.35", "216.146.36.36"],
+    "dohUrl": null,
+    "website": "https://dyn.com"
+  },
+  {
+    "id": 33,
+    "name": "ZeroDNS",
+    "description": "Minimalist DNS service",
+    "addresses": ["199.195.254.10", "199.195.254.11"],
+    "dohUrl": null,
+    "website": "https://zerodns.com"
+  },
+  {
+    "id": 34,
+    "name": "Bitdefender Box",
+    "description": "Security-focused DNS from Bitdefender",
+    "addresses": ["104.16.248.249", "104.16.249.249"],
+    "dohUrl": null,
+    "website": "https://www.bitdefender.com"
+  },
+  {
+    "id": 35,
+    "name": "CMC DNS",
+    "description": "Vietnamese DNS service",
+    "addresses": ["203.119.128.50", "203.119.128.51"],
+    "dohUrl": null,
+    "website": "https://www.cmc.com.vn"
+  },
+  {
+    "id": 36,
+    "name": "Shaw DNS",
+    "description": "Canadian ISP DNS service",
+    "addresses": ["64.59.141.70", "64.59.141.71"],
+    "dohUrl": null,
+    "website": "https://www.shaw.ca"
   }
 ]
