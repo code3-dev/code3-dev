@@ -286,5 +286,29 @@
     "addresses": ["64.59.141.70", "64.59.141.71"],
     "dohUrl": null,
     "website": "https://www.shaw.ca"
+  },
+    {
+    "id": 37,
+    "name": "Shecan",
+    "description": "Iranian DNS service for bypassing censorship",
+    "addresses": ["178.22.122.100", "185.51.200.2"],
+    "dohUrl": "https://free.shecan.ir/dns-query",
+    "website": "https://shecan.ir"
+  },
+  {
+    "id": 38,
+    "name": "Radar Game",
+    "description": "Gaming-focused DNS service",
+    "addresses": ["10.202.10.10", "10.202.10.11"],
+    "dohUrl": "https://dns.radar.game/dns-query",
+    "website": "https://radar.game"
+  },
+  {
+    "id": 39,
+    "name": "Electro",
+    "description": "Fast DNS service from Iran",
+    "addresses": ["78.157.42.100", "78.157.42.101"],
+    "dohUrl": "https://dns.electrotm.org/dns-query",
+    "website": "https://electrotm.org"
   }
 ]
