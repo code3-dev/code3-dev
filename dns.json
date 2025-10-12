@@ -421,6 +421,6 @@
     "description": "DNS service from NordVPN focused on ad-blocking and security",
     "addresses": ["103.86.96.100", "103.86.99.100"],
     "dohUrl": "https://dns1.nordvpn.com/dns-query",
-    "website": "https://nordvpn.com/dns/"
+    "website": "https://nordvpn.com"
   }
 ]
