@@ -374,5 +374,13 @@
     "addresses": ["223.5.5.5", "223.6.6.6"],
     "dohUrl": "https://dns.alidns.com/dns-query",
     "website": "https://alidns.com"
+  },
+  {
+    "id": 48,
+    "name": "DNS4EU Unfiltered",
+    "description": "Fast, unfiltered European DNS service with DoH/DoT support",
+    "addresses": ["86.54.11.100", "86.54.11.200"],
+    "dohUrl": "https://unfiltered.joindns4.eu/dns-query",
+    "website": "https://www.joindns4.eu"
   }
 ]
