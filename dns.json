@@ -205,7 +205,7 @@
     "description": "Security-focused DNS service",
     "addresses": ["77.77.77.77", "77.77.77.78"],
     "dohUrl": null,
-    "website": "https://3dns.com"
+    "website": "http://parsonweb.com"
   },
   {
     "id": 27,
