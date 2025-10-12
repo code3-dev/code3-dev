@@ -272,14 +272,6 @@
     "website": "https://www.bitdefender.com"
   },
   {
-    "id": 35,
-    "name": "CMC DNS",
-    "description": "Vietnamese DNS service",
-    "addresses": ["203.119.128.50", "203.119.128.51"],
-    "dohUrl": null,
-    "website": "https://www.cmc.com.vn"
-  },
-  {
     "id": 36,
     "name": "Shaw DNS",
     "description": "Canadian ISP DNS service",
