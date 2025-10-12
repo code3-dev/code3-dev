@@ -406,5 +406,13 @@
     "addresses": ["8.26.56.26", "8.20.247.20"],
     "dohUrl": "https://secure.avastdns.com/dns-query",
     "website": "https://www.avast.com/antivirus"
+  },
+  {
+    "id": 52,
+    "name": "ComSS",
+    "description": "DNS service focused on ad-blocking and configurable settings",
+    "addresses": ["95.217.205.213"],
+    "dohUrl": "https://dns.comss.one/dns-query",
+    "website": "https://comss.one"
   }
 ]
