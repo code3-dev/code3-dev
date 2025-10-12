@@ -326,7 +326,7 @@
     "addresses": ["94.140.14.140", "94.140.14.141"],
     "dohUrl": "https://unfiltered.adguard-dns.com/dns-query",
     "website": "https://adguard.com/en/adguard-dns/overview.html"
-  }،
+  },
   {
     "id": 42,
     "name": "Cloudflare Security",
