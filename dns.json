@@ -350,5 +350,13 @@
     "addresses": ["208.67.222.222", "208.67.220.220"],
     "dohUrl": "https://doh.umbrella.com/dns-query",
     "website": "https://umbrella.cisco.com"
+  },
+  {
+    "id": 45,
+    "name": "Mozilla DNS",
+    "description": "Privacy-first DNS service operated by Cloudflare under Mozilla's strict privacy policy",
+    "addresses": ["104.16.248.249", "104.16.249.249"],
+    "dohUrl": "https://mozilla.cloudflare-dns.com/dns-query",
+    "website": "https://support.mozilla.org/en-US/kb/firefox-dns-over-https"
   }
 ]
