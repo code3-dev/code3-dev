@@ -358,5 +358,13 @@
     "addresses": ["104.16.248.249", "104.16.249.249"],
     "dohUrl": "https://mozilla.cloudflare-dns.com/dns-query",
     "website": "https://support.mozilla.org/en-US/kb/firefox-dns-over-https"
+  },
+  {
+    "id": 46,
+    "name": "Mullvad DNS",
+    "description": "Privacy-focused, no-log DNS service operated by Mullvad VPN",
+    "addresses": ["194.242.2.2", "194.242.2.3"],
+    "dohUrl": "https://doh.mullvad.net/dns-query",
+    "website": "https://mullvad.net/help/dns-over-https-and-dns-over-tls/"
   }
 ]
