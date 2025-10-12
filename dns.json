@@ -294,5 +294,21 @@
     "addresses": ["78.157.42.100", "78.157.42.101"],
     "dohUrl": "https://dns.electrotm.org/dns-query",
     "website": "https://electrotm.org"
+  },
+  {
+    "id": 38,
+    "name": "Yandex DNS Safe",
+    "description": "Russian DNS service with security features",
+    "addresses": ["77.88.8.88", "77.88.8.2"],
+    "dohUrl": "https://safe.dot.dns.yandex.net",
+    "website": "https://dns.yandex.com"
+  },
+  {
+    "id": 39,
+    "name": "Yandex DNS Family",
+    "description": "Russian DNS service with security features",
+    "addresses": ["77.88.8.7", "77.88.8.3"],
+    "dohUrl": "https://family.dot.dns.yandex.net",
+    "website": "https://dns.yandex.com"
   }
 ]
