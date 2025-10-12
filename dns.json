@@ -92,7 +92,7 @@
     "name": "Neustar Recursive DNS",
     "description": "Enterprise-grade DNS with security",
     "addresses": ["156.154.70.1", "156.154.71.1"],
-    "dohUrl": "https://dns.neustar/dns-query",
+    "dohUrl": null,
     "website": "https://www.security.neustar/dns-services/recursive-dns"
   },
   {
