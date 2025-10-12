@@ -169,11 +169,11 @@
   },
   {
     "id": 22,
-    "name": "puntCAT",
-    "description": "Catalan DNS service",
+    "name": "Guifi.net",
+    "description": "Guifi.net DNS service",
     "addresses": ["109.69.8.51", "164.138.24.75"],
     "dohUrl": null,
-    "website": "https://www.puntcat.cat"
+    "website": "https://guifi.net"
   },
   {
     "id": 23,
