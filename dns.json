@@ -398,5 +398,13 @@
     "addresses": ["76.76.2.0", "76.76.10.0"],
     "dohUrl": "https://freedns.controld.com/p0",
     "website": "https://controld.com"
+  },
+  {
+    "id": 51,
+    "name": "Avast (Default)",
+    "description": "DNS service focused on ad-blocking and enhanced security",
+    "addresses": ["8.26.56.26", "8.20.247.20"],
+    "dohUrl": "https://secure.avastdns.com/dns-query",
+    "website": "https://www.avast.com/antivirus"
   }
 ]
