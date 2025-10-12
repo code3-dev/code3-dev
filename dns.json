@@ -310,5 +310,13 @@
     "addresses": ["77.88.8.7", "77.88.8.3"],
     "dohUrl": "https://family.dot.dns.yandex.net",
     "website": "https://dns.yandex.com"
+  },
+  {
+    "id": 40,
+    "name": "OpenDNS Family",
+    "description": "Secure DNS service with content filtering",
+    "addresses": ["208.67.222.123", "208.67.220.123"],
+    "dohUrl": "https://doh.opendns.com/dns-query",
+    "website": "https://www.opendns.com"
   }
 ]
