@@ -76,7 +76,7 @@
     "name": "Yandex DNS",
     "description": "Russian DNS service with security features",
     "addresses": ["77.88.8.8", "77.88.8.1"],
-    "dohUrl": "https://dns.yandex.ru/dns-query",
+    "dohUrl": "https://common.dot.dns.yandex.net",
     "website": "https://dns.yandex.com"
   },
   {
