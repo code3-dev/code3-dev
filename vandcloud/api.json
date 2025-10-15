@@ -1,0 +1,1227 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "category": "engine"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "category": "ai"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://telegram.org",
+    "category": "social"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com",
+    "category": "social"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://reddit.com",
+    "category": "social"
+  },
+  {
+    "name": "Snapchat",
+    "url": "https://snapchat.com",
+    "category": "social"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://tiktok.com",
+    "category": "social"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://pinterest.com",
+    "category": "social"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://tumblr.com",
+    "category": "social"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com",
+    "category": "social"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com",
+    "category": "social"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://youtube.com",
+    "category": "social"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://whatsapp.com",
+    "category": "social"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://instagram.com",
+    "category": "social"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://facebook.com",
+    "category": "social"
+  },
+  {
+    "name": "WeChat",
+    "url": "https://wechat.com",
+    "category": "social"
+  },
+  {
+    "name": "VK",
+    "url": "https://vk.com",
+    "category": "social"
+  },
+  {
+    "name": "Clubhouse",
+    "url": "https://clubhouse.com",
+    "category": "social"
+  },
+  {
+    "name": "Signal",
+    "url": "https://signal.org",
+    "category": "social"
+  },
+  {
+    "name": "Viber",
+    "url": "https://viber.com",
+    "category": "social"
+  },
+  {
+    "name": "Line",
+    "url": "https://line.me",
+    "category": "social"
+  },
+  {
+    "name": "KakaoTalk",
+    "url": "https://kakao.com",
+    "category": "social"
+  },
+  {
+    "name": "Figma",
+    "url": "https://figma.com",
+    "category": "tools"
+  },
+  {
+    "name": "Trello",
+    "url": "https://trello.com",
+    "category": "tools"
+  },
+  {
+    "name": "Slack",
+    "url": "https://slack.com",
+    "category": "tools"
+  },
+  {
+    "name": "Notion",
+    "url": "https://notion.so",
+    "category": "tools"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://zoom.us",
+    "category": "tools"
+  },
+  {
+    "name": "Asana",
+    "url": "https://asana.com",
+    "category": "tools"
+  },
+  {
+    "name": "Monday.com",
+    "url": "https://monday.com",
+    "category": "tools"
+  },
+  {
+    "name": "ClickUp",
+    "url": "https://clickup.com",
+    "category": "tools"
+  },
+  {
+    "name": "Jira",
+    "url": "https://atlassian.com/software/jira",
+    "category": "tools"
+  },
+  {
+    "name": "Confluence",
+    "url": "https://atlassian.com/software/confluence",
+    "category": "tools"
+  },
+  {
+    "name": "Miro",
+    "url": "https://miro.com",
+    "category": "tools"
+  },
+  {
+    "name": "Lucidchart",
+    "url": "https://lucidchart.com",
+    "category": "tools"
+  },
+  {
+    "name": "Draw.io",
+    "url": "https://draw.io",
+    "category": "tools"
+  },
+  {
+    "name": "Canva",
+    "url": "https://canva.com",
+    "category": "tools"
+  },
+  {
+    "name": "Adobe XD",
+    "url": "https://adobe.com/products/xd.html",
+    "category": "tools"
+  },
+  {
+    "name": "Sketch",
+    "url": "https://sketch.com",
+    "category": "tools"
+  },
+  {
+    "name": "InVision",
+    "url": "https://invisionapp.com",
+    "category": "tools"
+  },
+  {
+    "name": "Zeplin",
+    "url": "https://zeplin.io",
+    "category": "tools"
+  },
+  {
+    "name": "Framer",
+    "url": "https://framer.com",
+    "category": "tools"
+  },
+  {
+    "name": "Axure",
+    "url": "https://axure.com",
+    "category": "tools"
+  },
+  {
+    "name": "Balsamiq",
+    "url": "https://balsamiq.com",
+    "category": "tools"
+  },
+  {
+    "name": "Marvel",
+    "url": "https://marvelapp.com",
+    "category": "tools"
+  },
+  {
+    "name": "Proto.io",
+    "url": "https://proto.io",
+    "category": "tools"
+  },
+  {
+    "name": "Overflow",
+    "url": "https://overflow.io",
+    "category": "tools"
+  },
+  {
+    "name": "Whimsical",
+    "url": "https://whimsical.com",
+    "category": "tools"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com",
+    "category": "ai"
+  },
+  {
+    "name": "Anthropic",
+    "url": "https://anthropic.com",
+    "category": "ai"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "category": "ai"
+  },
+  {
+    "name": "Stability AI",
+    "url": "https://stability.ai",
+    "category": "ai"
+  },
+  {
+    "name": "Midjourney",
+    "url": "https://midjourney.com",
+    "category": "ai"
+  },
+  {
+    "name": "Runway ML",
+    "url": "https://runwayml.com",
+    "category": "ai"
+  },
+  {
+    "name": "Replicate",
+    "url": "https://replicate.com",
+    "category": "ai"
+  },
+  {
+    "name": "Cohere",
+    "url": "https://cohere.ai",
+    "category": "ai"
+  },
+  {
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "category": "ai"
+  },
+  {
+    "name": "AssemblyAI",
+    "url": "https://assemblyai.com",
+    "category": "ai"
+  },
+  {
+    "name": "DeepMind",
+    "url": "https://deepmind.com",
+    "category": "ai"
+  },
+  {
+    "name": "Google AI",
+    "url": "https://ai.google",
+    "category": "ai"
+  },
+  {
+    "name": "Microsoft AI",
+    "url": "https://microsoft.com/ai",
+    "category": "ai"
+  },
+  {
+    "name": "IBM Watson",
+    "url": "https://ibm.com/watson",
+    "category": "ai"
+  },
+  {
+    "name": "Amazon AI",
+    "url": "https://aws.amazon.com/ai",
+    "category": "ai"
+  },
+  {
+    "name": "Salesforce AI",
+    "url": "https://salesforce.com/ai",
+    "category": "ai"
+  },
+  {
+    "name": "Oracle AI",
+    "url": "https://oracle.com/artificial-intelligence",
+    "category": "ai"
+  },
+  {
+    "name": "SAP AI",
+    "url": "https://sap.com/products/ai",
+    "category": "ai"
+  },
+  {
+    "name": "Adobe Sensei",
+    "url": "https://adobe.com/sensei",
+    "category": "ai"
+  },
+  {
+    "name": "Apple AI",
+    "url": "https://apple.com/ai",
+    "category": "ai"
+  },
+  {
+    "name": "Google",
+    "url": "https://google.com",
+    "category": "engine"
+  },
+  {
+    "name": "Bing",
+    "url": "https://bing.com",
+    "category": "engine"
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com",
+    "category": "engine"
+  },
+  {
+    "name": "Yahoo",
+    "url": "https://yahoo.com",
+    "category": "engine"
+  },
+  {
+    "name": "Baidu",
+    "url": "https://baidu.com",
+    "category": "engine"
+  },
+  {
+    "name": "Yandex",
+    "url": "https://yandex.com",
+    "category": "engine"
+  },
+  {
+    "name": "Ecosia",
+    "url": "https://ecosia.org",
+    "category": "engine"
+  },
+  {
+    "name": "Startpage",
+    "url": "https://startpage.com",
+    "category": "engine"
+  },
+  {
+    "name": "Qwant",
+    "url": "https://qwant.com",
+    "category": "engine"
+  },
+  {
+    "name": "Searx",
+    "url": "https://searx.github.io/searx",
+    "category": "engine"
+  },
+  {
+    "name": "Mojeek",
+    "url": "https://mojeek.com",
+    "category": "engine"
+  },
+  {
+    "name": "Gigablast",
+    "url": "https://gigablast.com",
+    "category": "engine"
+  },
+  {
+    "name": "Ixquick",
+    "url": "https://ixquick.com",
+    "category": "engine"
+  },
+  {
+    "name": "Swisscows",
+    "url": "https://swisscows.com",
+    "category": "engine"
+  },
+  {
+    "name": "Yippy",
+    "url": "https://yippy.com",
+    "category": "engine"
+  },
+  {
+    "name": "WolframAlpha",
+    "url": "https://wolframalpha.com",
+    "category": "engine"
+  },
+  {
+    "name": "Ask.com",
+    "url": "https://ask.com",
+    "category": "engine"
+  },
+  {
+    "name": "AOL Search",
+    "url": "https://aol.com",
+    "category": "engine"
+  },
+  {
+    "name": "Lycos",
+    "url": "https://lycos.com",
+    "category": "engine"
+  },
+  {
+    "name": "Info.com",
+    "url": "https://info.com",
+    "category": "engine"
+  },
+  {
+    "name": "Flutter",
+    "url": "https://flutter.dev",
+    "category": "developer"
+  },
+  {
+    "name": "Google APIs",
+    "url": "https://developers.google.com/apis",
+    "category": "developer"
+  },
+  {
+    "name": "Android Studio",
+    "url": "https://developer.android.com/studio",
+    "category": "developer"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "category": "developer"
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "category": "developer"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com",
+    "category": "developer"
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org",
+    "category": "developer"
+  },
+  {
+    "name": "Docker",
+    "url": "https://docker.com",
+    "category": "developer"
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://kubernetes.io",
+    "category": "developer"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://jenkins.io",
+    "category": "developer"
+  },
+  {
+    "name": "Travis CI",
+    "url": "https://travis-ci.org",
+    "category": "developer"
+  },
+  {
+    "name": "CircleCI",
+    "url": "https://circleci.com",
+    "category": "developer"
+  },
+  {
+    "name": "Gradle",
+    "url": "https://gradle.org",
+    "category": "developer"
+  },
+  {
+    "name": "Maven",
+    "url": "https://maven.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "npm",
+    "url": "https://npmjs.com",
+    "category": "developer"
+  },
+  {
+    "name": "Yarn",
+    "url": "https://yarnpkg.com",
+    "category": "developer"
+  },
+  {
+    "name": "Webpack",
+    "url": "https://webpack.js.org",
+    "category": "developer"
+  },
+  {
+    "name": "Babel",
+    "url": "https://babeljs.io",
+    "category": "developer"
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://typescriptlang.org",
+    "category": "developer"
+  },
+  {
+    "name": "React",
+    "url": "https://reactjs.org",
+    "category": "developer"
+  },
+  {
+    "name": "Vue.js",
+    "url": "https://vuejs.org",
+    "category": "developer"
+  },
+  {
+    "name": "Angular",
+    "url": "https://angular.io",
+    "category": "developer"
+  },
+  {
+    "name": "Svelte",
+    "url": "https://svelte.dev",
+    "category": "developer"
+  },
+  {
+    "name": "Next.js",
+    "url": "https://nextjs.org",
+    "category": "developer"
+  },
+  {
+    "name": "Nuxt.js",
+    "url": "https://nuxtjs.org",
+    "category": "developer"
+  },
+  {
+    "name": "Node.js",
+    "url": "https://nodejs.org",
+    "category": "developer"
+  },
+  {
+    "name": "Express",
+    "url": "https://expressjs.com",
+    "category": "developer"
+  },
+  {
+    "name": "Django",
+    "url": "https://djangoproject.com",
+    "category": "developer"
+  },
+  {
+    "name": "Flask",
+    "url": "https://palletsprojects.com/p/flask",
+    "category": "developer"
+  },
+  {
+    "name": "Spring",
+    "url": "https://spring.io",
+    "category": "developer"
+  },
+  {
+    "name": "Laravel",
+    "url": "https://laravel.com",
+    "category": "developer"
+  },
+  {
+    "name": "Ruby on Rails",
+    "url": "https://rubyonrails.org",
+    "category": "developer"
+  },
+  {
+    "name": "ASP.NET",
+    "url": "https://asp.net",
+    "category": "developer"
+  },
+  {
+    "name": "Xcode",
+    "url": "https://developer.apple.com/xcode",
+    "category": "developer"
+  },
+  {
+    "name": "Visual Studio",
+    "url": "https://visualstudio.microsoft.com",
+    "category": "developer"
+  },
+  {
+    "name": "VS Code",
+    "url": "https://code.visualstudio.com",
+    "category": "developer"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "url": "https://jetbrains.com/idea",
+    "category": "developer"
+  },
+  {
+    "name": "PyCharm",
+    "url": "https://jetbrains.com/pycharm",
+    "category": "developer"
+  },
+  {
+    "name": "WebStorm",
+    "url": "https://jetbrains.com/webstorm",
+    "category": "developer"
+  },
+  {
+    "name": "Postman",
+    "url": "https://postman.com",
+    "category": "developer"
+  },
+  {
+    "name": "Insomnia",
+    "url": "https://insomnia.rest",
+    "category": "developer"
+  },
+  {
+    "name": "Swagger",
+    "url": "https://swagger.io",
+    "category": "developer"
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "https://postgresql.org",
+    "category": "developer"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://mysql.com",
+    "category": "developer"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://mongodb.com",
+    "category": "developer"
+  },
+  {
+    "name": "Redis",
+    "url": "https://redis.io",
+    "category": "developer"
+  },
+  {
+    "name": "Elasticsearch",
+    "url": "https://elastic.co/elasticsearch",
+    "category": "developer"
+  },
+  {
+    "name": "Firebase",
+    "url": "https://firebase.google.com",
+    "category": "developer"
+  },
+  {
+    "name": "AWS",
+    "url": "https://aws.amazon.com",
+    "category": "developer"
+  },
+  {
+    "name": "Azure",
+    "url": "https://azure.microsoft.com",
+    "category": "developer"
+  },
+  {
+    "name": "Google Cloud",
+    "url": "https://cloud.google.com",
+    "category": "developer"
+  },
+  {
+    "name": "Heroku",
+    "url": "https://heroku.com",
+    "category": "developer"
+  },
+  {
+    "name": "Netlify",
+    "url": "https://netlify.com",
+    "category": "developer"
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "category": "developer"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://cloudflare.com",
+    "category": "developer"
+  },
+  {
+    "name": "Terraform",
+    "url": "https://terraform.io",
+    "category": "developer"
+  },
+  {
+    "name": "Ansible",
+    "url": "https://ansible.com",
+    "category": "developer"
+  },
+  {
+    "name": "Puppet",
+    "url": "https://puppet.com",
+    "category": "developer"
+  },
+  {
+    "name": "Chef",
+    "url": "https://chef.io",
+    "category": "developer"
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://prometheus.io",
+    "category": "developer"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://grafana.com",
+    "category": "developer"
+  },
+  {
+    "name": "Kibana",
+    "url": "https://elastic.co/kibana",
+    "category": "developer"
+  },
+  {
+    "name": "Splunk",
+    "url": "https://splunk.com",
+    "category": "developer"
+  },
+  {
+    "name": "Datadog",
+    "url": "https://datadhog.com",
+    "category": "developer"
+  },
+  {
+    "name": "New Relic",
+    "url": "https://newrelic.com",
+    "category": "developer"
+  },
+  {
+    "name": "Sentry",
+    "url": "https://sentry.io",
+    "category": "developer"
+  },
+  {
+    "name": "Rollbar",
+    "url": "https://rollbar.com",
+    "category": "developer"
+  },
+  {
+    "name": "AppDynamics",
+    "url": "https://appdynamics.com",
+    "category": "developer"
+  },
+  {
+    "name": "Dynatrace",
+    "url": "https://dynatrace.com",
+    "category": "developer"
+  },
+  {
+    "name": "JFrog",
+    "url": "https://jfrog.com",
+    "category": "developer"
+  },
+  {
+    "name": "SonarQube",
+    "url": "https://sonarqube.org",
+    "category": "developer"
+  },
+  {
+    "name": "Coverity",
+    "url": "https://synopsys.com/software-integrity/security-testing/static-analysis-sast/coverity.html",
+    "category": "developer"
+  },
+  {
+    "name": "Checkmarx",
+    "url": "https://checkmarx.com",
+    "category": "developer"
+  },
+  {
+    "name": "Veracode",
+    "url": "https://veracode.com",
+    "category": "developer"
+  },
+  {
+    "name": "Snyk",
+    "url": "https://snyk.io",
+    "category": "developer"
+  },
+  {
+    "name": "WhiteSource",
+    "url": "https://whitesourcesoftware.com",
+    "category": "developer"
+  },
+  {
+    "name": "Black Duck",
+    "url": "https://synopsys.com/software-integrity/security-testing/software-composition-analysis/black-duck.html",
+    "category": "developer"
+  },
+  {
+    "name": "Jira",
+    "url": "https://atlassian.com/software/jira",
+    "category": "developer"
+  },
+  {
+    "name": "Confluence",
+    "url": "https://atlassian.com/software/confluence",
+    "category": "developer"
+  },
+  {
+    "name": "Trello",
+    "url": "https://trello.com",
+    "category": "developer"
+  },
+  {
+    "name": "Slack",
+    "url": "https://slack.com",
+    "category": "developer"
+  },
+  {
+    "name": "Discord Developers",
+    "url": "https://discord.com/developers",
+    "category": "developer"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://twilio.com",
+    "category": "developer"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com",
+    "category": "developer"
+  },
+  {
+    "name": "PayPal",
+    "url": "https://paypal.com",
+    "category": "developer"
+  },
+  {
+    "name": "Square",
+    "url": "https://squareup.com",
+    "category": "developer"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://shopify.com",
+    "category": "developer"
+  },
+  {
+    "name": "WooCommerce",
+    "url": "https://woocommerce.com",
+    "category": "developer"
+  },
+  {
+    "name": "Magento",
+    "url": "https://magento.com",
+    "category": "developer"
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://salesforce.com",
+    "category": "developer"
+  },
+  {
+    "name": "HubSpot",
+    "url": "https://hubspot.com",
+    "category": "developer"
+  },
+  {
+    "name": "Marketo",
+    "url": "https://marketo.com",
+    "category": "developer"
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://mailchimp.com",
+    "category": "developer"
+  },
+  {
+    "name": "SendGrid",
+    "url": "https://sendgrid.com",
+    "category": "developer"
+  },
+  {
+    "name": "Twilio SendGrid",
+    "url": "https://sendgrid.com",
+    "category": "developer"
+  },
+  {
+    "name": "Auth0",
+    "url": "https://auth0.com",
+    "category": "developer"
+  },
+  {
+    "name": "Okta",
+    "url": "https://okta.com",
+    "category": "developer"
+  },
+  {
+    "name": "Firebase Auth",
+    "url": "https://firebase.google.com/products/auth",
+    "category": "developer"
+  },
+  {
+    "name": "AWS Cognito",
+    "url": "https://aws.amazon.com/cognito",
+    "category": "developer"
+  },
+  {
+    "name": "Azure AD",
+    "url": "https://azure.microsoft.com/services/active-directory",
+    "category": "developer"
+  },
+  {
+    "name": "Google Auth",
+    "url": "https://developers.google.com/identity",
+    "category": "developer"
+  },
+  {
+    "name": "Facebook Login",
+    "url": "https://developers.facebook.com/docs/facebook-login",
+    "category": "developer"
+  },
+  {
+    "name": "Twitter API",
+    "url": "https://developer.twitter.com",
+    "category": "developer"
+  },
+  {
+    "name": "LinkedIn API",
+    "url": "https://developer.linkedin.com",
+    "category": "developer"
+  },
+  {
+    "name": "GitHub API",
+    "url": "https://developer.github.com",
+    "category": "developer"
+  },
+  {
+    "name": "Google Maps API",
+    "url": "https://developers.google.com/maps",
+    "category": "developer"
+  },
+  {
+    "name": "Stripe API",
+    "url": "https://stripe.com/docs/api",
+    "category": "developer"
+  },
+  {
+    "name": "Twilio API",
+    "url": "https://www.twilio.com/docs",
+    "category": "developer"
+  },
+  {
+    "name": "AWS SDK",
+    "url": "https://aws.amazon.com/tools",
+    "category": "developer"
+  },
+  {
+    "name": "Azure SDK",
+    "url": "https://azure.microsoft.com/downloads",
+    "category": "developer"
+  },
+  {
+    "name": "Google Cloud SDK",
+    "url": "https://cloud.google.com/sdk",
+    "category": "developer"
+  },
+  {
+    "name": "Dart",
+    "url": "https://dart.dev",
+    "category": "developer"
+  },
+  {
+    "name": "Kotlin",
+    "url": "https://kotlinlang.org",
+    "category": "developer"
+  },
+  {
+    "name": "Swift",
+    "url": "https://swift.org",
+    "category": "developer"
+  },
+  {
+    "name": "Java",
+    "url": "https://oracle.com/java",
+    "category": "developer"
+  },
+  {
+    "name": "Python",
+    "url": "https://python.org",
+    "category": "developer"
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://javascript.com",
+    "category": "developer"
+  },
+  {
+    "name": "Go",
+    "url": "https://golang.org",
+    "category": "developer"
+  },
+  {
+    "name": "Rust",
+    "url": "https://rust-lang.org",
+    "category": "developer"
+  },
+  {
+    "name": "C#",
+    "url": "https://csharp.com",
+    "category": "developer"
+  },
+  {
+    "name": "C++",
+    "url": "https://isocpp.org",
+    "category": "developer"
+  },
+  {
+    "name": "C",
+    "url": "https://open-std.org/JTC1/SC22/WG14",
+    "category": "developer"
+  },
+  {
+    "name": "PHP",
+    "url": "https://php.net",
+    "category": "developer"
+  },
+  {
+    "name": "Ruby",
+    "url": "https://ruby-lang.org",
+    "category": "developer"
+  },
+  {
+    "name": "Scala",
+    "url": "https://scala-lang.org",
+    "category": "developer"
+  },
+  {
+    "name": "Haskell",
+    "url": "https://haskell.org",
+    "category": "developer"
+  },
+  {
+    "name": "Elixir",
+    "url": "https://elixir-lang.org",
+    "category": "developer"
+  },
+  {
+    "name": "Clojure",
+    "url": "https://clojure.org",
+    "category": "developer"
+  },
+  {
+    "name": "R",
+    "url": "https://r-project.org",
+    "category": "developer"
+  },
+  {
+    "name": "MATLAB",
+    "url": "https://mathworks.com/products/matlab.html",
+    "category": "developer"
+  },
+  {
+    "name": "Julia",
+    "url": "https://julialang.org",
+    "category": "developer"
+  },
+  {
+    "name": "TensorFlow",
+    "url": "https://tensorflow.org",
+    "category": "developer"
+  },
+  {
+    "name": "PyTorch",
+    "url": "https://pytorch.org",
+    "category": "developer"
+  },
+  {
+    "name": "Keras",
+    "url": "https://keras.io",
+    "category": "developer"
+  },
+  {
+    "name": "Scikit-learn",
+    "url": "https://scikit-learn.org",
+    "category": "developer"
+  },
+  {
+    "name": "Pandas",
+    "url": "https://pandas.pydata.org",
+    "category": "developer"
+  },
+  {
+    "name": "NumPy",
+    "url": "https://numpy.org",
+    "category": "developer"
+  },
+  {
+    "name": "Matplotlib",
+    "url": "https://matplotlib.org",
+    "category": "developer"
+  },
+  {
+    "name": "Seaborn",
+    "url": "https://seaborn.pydata.org",
+    "category": "developer"
+  },
+  {
+    "name": "Plotly",
+    "url": "https://plotly.com",
+    "category": "developer"
+  },
+  {
+    "name": "D3.js",
+    "url": "https://d3js.org",
+    "category": "developer"
+  },
+  {
+    "name": "Chart.js",
+    "url": "https://chartjs.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Spark",
+    "url": "https://spark.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Kafka",
+    "url": "https://kafka.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Hadoop",
+    "url": "https://hadoop.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Cassandra",
+    "url": "https://cassandra.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache CouchDB",
+    "url": "https://couchdb.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache HBase",
+    "url": "https://hbase.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Storm",
+    "url": "https://storm.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Flink",
+    "url": "https://flink.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Airflow",
+    "url": "https://airflow.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Beam",
+    "url": "https://beam.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Drill",
+    "url": "https://drill.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Ignite",
+    "url": "https://ignite.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Pulsar",
+    "url": "https://pulsar.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Solr",
+    "url": "https://solr.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache Tomcat",
+    "url": "https://tomcat.apache.org",
+    "category": "developer"
+  },
+  {
+    "name": "Apache ZooKeeper",
+    "url": "https://zookeeper.apache.org",
+    "category": "developer"
+  }
+]
