@@ -1,10 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "category": "engine"
-  },
-  {
     "name": "ChatGPT",
     "url": "https://chatgpt.com",
     "category": "ai"
