@@ -1,0 +1,27 @@
+[
+  {
+    "name": "engine",
+    "title": "Search Engines",
+    "description": "Popular web search engines and information retrieval systems"
+  },
+  {
+    "name": "ai",
+    "title": "Artificial Intelligence",
+    "description": "AI platforms, machine learning tools, and generative AI services"
+  },
+  {
+    "name": "social",
+    "title": "Social Media",
+    "description": "Social networking platforms, messaging apps, and communication tools"
+  },
+  {
+    "name": "tools",
+    "title": "Productivity Tools",
+    "description": "Design, project management, and productivity applications"
+  },
+  {
+    "name": "developer",
+    "title": "Developer Tools",
+    "description": "Programming languages, frameworks, libraries, and development platforms"
+  }
+]
