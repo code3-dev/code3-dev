@@ -166,4 +166,4 @@ proxy-groups:
       - Cloudflare 8
       - DIRECT
 rules:
-  - MATCH,FASTSSH-SSHKIT-HOWDY
+  - MATCH,IRCF-Team
