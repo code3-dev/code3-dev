@@ -1,0 +1,169 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+proxies:
+  - name: Cloudflare
+    server: 162.159.153.156
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: ym.ddff.me
+    udp: true
+  - name: Cloudflare 2
+    server: 162.159.152.225
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: ym.ddff.me
+    udp: true
+  - name: Cloudflare 3
+    server: 162.159.152.225
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: ym.ddff.me
+    udp: true
+  - name: Cloudflare 4
+    server: "[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]"
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: ym.ddff.me
+    udp: true
+  - name: Cloudflare 5
+    server: 162.159.153.42
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: ym.ddff.me
+    udp: true
+  - name: Cloudflare 6
+    server: 162.159.39.250
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?mode=auto&direct&proxyip=ProxyIP.Oracle.cmliussss.net:443
+      headers:
+        Host: ym.ddff.me
+    udp: true
+  - name: Cloudflare 7
+    server: 104.19.144.212
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: ym.ddff.me
+    udp: true
+  - name: Cloudflare 8
+    server: "[2606:4700:3036:ef:92f:be51:8695:9fc5]"
+    port: 443
+    type: vless
+    uuid: 5dc3fdac-9384-4d14-8c15-e3250a0fde0a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ym.ddff.me
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: ym.ddff.me
+    udp: true
+proxy-groups:
+  - name: FASTSSH-SSHKIT-HOWDY
+    type: select
+    proxies:
+      - Cloudflare
+      - Cloudflare 2
+      - Cloudflare 3
+      - Cloudflare 4
+      - Cloudflare 5
+      - Cloudflare 6
+      - Cloudflare 7
+      - Cloudflare 8
+      - DIRECT
+rules:
+  - MATCH,FASTSSH-SSHKIT-HOWDY
