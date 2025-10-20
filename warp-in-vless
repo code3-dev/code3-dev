@@ -8,6 +8,7 @@
 # 💬 Enjoy secure and fast connections!
 ##############################################
 
+vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.19.98.71:443?path=%2F&security=tls&alpn=h3&encryption=none&host=123-8i5.pages.dev&type=ws&sni=123-8i5.pages.dev#%F0%9F%94%A5%20Cloudflare
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@64.49.14.41:8443?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.236.29.162:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.128.95.110:40029?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
