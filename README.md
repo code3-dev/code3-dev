@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hossein+Pira;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
----
-
 ## 🚀 About Me
 
 > Full-stack developer with expertise in multiple technologies and a passion for open-source contributions. Dedicated to continuous learning and building impactful solutions.
@@ -17,6 +15,10 @@
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code3-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code3-dev&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" alt="Top Languages" />
@@ -62,18 +64,18 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code3-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=code3-dev&theme=tokyonight&hide_border=true&border_radius=20" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code3-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -93,4 +95,10 @@
   <a href="https://www.instagram.com/h3dev.pira">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
