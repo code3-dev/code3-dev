@@ -9,10 +9,8 @@
 - 🔭 Currently working on innovative web applications
 - 🌱 Learning advanced cloud architectures and microservices
 - 👯 Open to collaborating on open-source projects
-- 💬 Ask me about JavaScript, Go, Python, or anything tech-related
+- 💬 Ask me about JavaScript, Go, PHP, or anything tech-related
 - ⚡ Fun fact: I love contributing to the developer community
-
----
 
 ## 📊 GitHub Analytics
 
