@@ -12,16 +12,6 @@
 - 💬 Ask me about JavaScript, Go, PHP, or anything tech-related
 - ⚡ Fun fact: I love contributing to the developer community
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code3-dev&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code3-dev&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
