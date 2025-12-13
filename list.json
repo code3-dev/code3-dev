@@ -3,6 +3,7 @@
         "title": "DefyxVPN",
         "description": "A modern, secure VPN application built with Flutter that provides internet freedom and privacy protection.",
         "image": "https://raw.githubusercontent.com/code3-dev/defyxVPN/main/.github/images/cover.jpg",
-        "repo": "https://github.com/UnboundTechCo/defyxVPN"
+        "repo": "https://github.com/UnboundTechCo/defyxVPN",
+        "type": "r"
     }
 ]
