@@ -23,7 +23,7 @@
     {
         "title": "ProxyCloud",
         "description": "A modern, feature-rich VPN client that's fast, unlimited, secure, and completely free.",
-        "image": "https://raw.githubusercontent.com/code3-dev/defyxVPN/main/.github/images/cover.jpg",
+        "image": "https://raw.githubusercontent.com/code3-dev/ProxyCloud/refs/heads/master/screenshots/base.jpg",
         "repo": "https://github.com/code3-dev/ProxyCloud",
         "type": "r"
     }
